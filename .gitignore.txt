@@ -5,3 +5,7 @@ __pycache__/
 temp_audio/
 output/
 .env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
