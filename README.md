@@ -37,7 +37,7 @@ jarvis/
 ├── requirements.txt
 └── README.md
 
-AUTOR
+##AUTOR
 Gabriel Rosa
 
 ---
