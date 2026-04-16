@@ -20,7 +20,6 @@ O Jarvis foi criado como um projeto prático para estudar integração entre voz
 - SpeechRecognition
 - pyttsx3
 - JSON
-- Git
 - GitHub
 
 ## Estrutura do projeto
